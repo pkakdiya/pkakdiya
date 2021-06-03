@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pkakdiya
-- 👀 I’m interested in C#, .Net, .Net Core, Azure, Angular.
+- 👀 I’m interested in C#, .Net, .Net Core, Azure, Angular. NodeJs
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Cloud Native Application usign .Net Core and Azure.
 - 📫 How to reach me on Kakadiya.p@gmail.com
